@@ -1,0 +1,4 @@
+MEXICO 
+LINEAS Tienen porcentaje
+
+-catalogo con las especificaciones de nombres de archivos y parametros para cargarlos
